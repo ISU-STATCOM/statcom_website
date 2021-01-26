@@ -2,13 +2,11 @@
 title: Projects
 author: 
 date: '2007-10-28'
-slug: about
+slug: 
 categories: []
 tags: []
 description: ''
 ---
-
-## Projects
 
 ### Practical Farmers of Iowa
 PFI is a non-profit that works with Iowa farmers. One of the things they do is organize small-scale field trials to study the effects of sustainable agricultural practices. The project requires [Read more →](/2020/10/practical-farmers-of-iowa/)

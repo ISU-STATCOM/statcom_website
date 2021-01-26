@@ -8,8 +8,47 @@ tags: []
 description: ''
 ---
 
-STATCOM (Statistics in the Community) is a student-run volunteer organization that provides pro-bono statistical consulting to local organizations that work for the common good. 
+STATCOM (Statistics in the Community) at [Iowa State University](https://www.stat.iastate.edu/)
+is a student-run volunteer organization at the Department of Statistics that provides pro-bono statistical consulting to local organizations that work for the common good. 
+
+The program offers the expertise of statistics graduate students, free of charge, to non-profit governmental and community organizations in the areas of data organization, analysis, and interpretation. 
 
 STATCOM was founded at Purdue, and other chapters exist throughout the U.S. 
 
 **Note: STATCOM cannot provide consulting for other ISU departments or graduate students. Please refer to the [Statistical Consulting](https://www.stat.iastate.edu/statistical-consulting) at the [Department of Statistics](https://www.stat.iastate.edu/)**
+
+### History
+
+Statistics in the Community (STATCOM) is a student-run volunteer organization started 
+in 2001 at the [Department of Statistics Purdue University](https://www.stat.purdue.edu/external_relations/statcom/index.html). 
+With support from a Member Initiatives Grant from the American Statistical Association (ASA), a network of Statistics in the Community (STATCOM) programs was started in 2006. 
+
+#### Mission:
+The mission of the Statistics in the Community (STATCOM) Network is:
+
+- To provide pro-bono statistical consulting to local nonprofit, governmental, and 
+community service organizations
+
+- To engage students in voluntary, service-oriented statistical consulting and leadership.
+
+#### Vision:  
+The vision of the Statistics in the Community (STATCOM) Network is:
+
+- To apply statistical methods and principles to have a positive impact on 
+communities and institutions that serve those communities
+
+- To increase communication and collaboration among student statisticians engaged in service-oriented statistics.
+
+We welcome any college or university interested in starting such a program to join this Network. 
+
+The materials available on this website will give you a better understanding of our work and help interested students start similar programs.  As you review this information, please feel free to contact the current STATCOM presidentor, David Walker, at statcom@iastate.edu if you have any questions.
+
+Thank you for your interest in the Statistics in the Community (STATCOM) program!
+
+
+### About our Volunteers
+
+Our volunteers are students who are interested in serving the community through statistical 
+consulting projects. Our volunteers are mainly comprised of graduate students in the 
+Department of Statistics (MS and Ph.D.). Faculty members serve an advisory role in STATCOM, 
+providing leadership, assistance with client meetings, and statistical consulting advice as needed, especially in initial consultations. However, projects are conducted and led by our student volunteers.

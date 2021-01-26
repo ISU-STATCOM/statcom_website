@@ -50,7 +50,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
   url = "/2006/10/officers/"  
 [[menu.navbar]]
   name = "Contact Us"
-  url = ""
+  url = "/2010/09/contact/"
 
   
 # Theme variables
