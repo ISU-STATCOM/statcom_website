@@ -1,3 +1,5 @@
+<img src="https://isu-statcom.netlify.app/img/statcom_logo.png" width="150" height="150" align="right"/>
+
 # STATCOM @ Iowa State University
 ## Department of Statistics
 
