@@ -1,6 +1,6 @@
 ---
-date: "2021-01-15T21:48:51-07:00"
-title: contact
+date: "2021-01-10T21:48:51-07:00"
+title: Contact us
 ---
 
 You can send your request to statcom@iastate.edu and our officers will 

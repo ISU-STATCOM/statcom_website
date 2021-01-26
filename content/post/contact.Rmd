@@ -1,13 +1,12 @@
 ---
 title: Contact us
 author: 
-date: '2010-09-18'
-slug: contact
+date: '2008-09-08'
+slug: 
 categories: []
 tags: []
 description: ''
 ---
-
 
 You can send your request to statcom@iastate.edu and our officers will 
 will contact you to determine how best to learn more about your project. 
