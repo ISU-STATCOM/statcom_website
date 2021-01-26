@@ -61,6 +61,9 @@
             <h1 class="blog-title"><a href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title | safeHTML }}</a></h1>
             {{ if .Site.Params.description }}<p class="lead blog-description">{{ .Site.Params.description | markdownify }}</p>{{ end }}
           </div>
+            <div class="col-sm-3 ml-auto" align="center">
+            <img src="https://isu-statcom.netlify.app/img/statcom.png" height=150px>
+          </div>
         </div>
       </div>
     </header>
