@@ -8,28 +8,34 @@ tags: []
 description: ''
 ---
 
-
-### **2020 - 2021 STATCOM Board**
-
+### **2021 - 2022 STATCOM Board**
 #### *President:*
-  [David Walker](https://www.stat.iastate.edu/people/david-walker)
-  
-  
+  [Debosmita Kundu](https://www.stat.iastate.edu/people/debosmita-kundu)
+
 #### *Treasurer:*
-  [Amin Shirazi](https://www.stat.iastate.edu/people/amin-shirazi)
-  
+  [Anyesha Ray]()
   
 #### *Adviser*:
   [Kori Khan](https://www.stat.iastate.edu/people/kori-khan)
   
+#### *Executive Committee:*
+  - [Amin Shirazi](https://www.stat.iastate.edu/people/amin-shirazi)
+  
+### **2020 - 2021 STATCOM Board**
+#### *President:*
+  [David Walker](https://www.stat.iastate.edu/people/david-walker)
+
+#### *Treasurer:*
+  [Amin Shirazi](https://www.stat.iastate.edu/people/amin-shirazi)
+
+#### *Adviser*:
+  [Kori Khan](https://www.stat.iastate.edu/people/kori-khan)
 
 #### *Executive Committee:*
   - [Earl Hur](https://www.stat.iastate.edu/people/earl-hur)
-  
   - [Amin Shirazi](https://www.stat.iastate.edu/people/amin-shirazi)
 
 ### **2019 - 2020 STATCOM Board**
-
 #### *President:*
   [Kiegan Rice]()
   

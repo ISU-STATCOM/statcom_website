@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on STATCOM at ISU</title>
+    <link>https://isu-statcom.netlify.app/tags/</link>
+    <description>Recent content in Tags on STATCOM at ISU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This website lists content related to talks that have either already taken place or scheduled to take place in the STATCOM organization. All rights remain with the organization respective officers.</copyright>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://isu-statcom.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>analysis</title>
+      <link>https://isu-statcom.netlify.app/tags/analysis/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data cleaning</title>
+      <link>https://isu-statcom.netlify.app/tags/data-cleaning/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/tags/data-cleaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database design</title>
+      <link>https://isu-statcom.netlify.app/tags/database-design/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/tags/database-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visualization</title>
+      <link>https://isu-statcom.netlify.app/tags/visualization/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survey analysis</title>
+      <link>https://isu-statcom.netlify.app/tags/survey-analysis/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/tags/survey-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text analysis</title>
+      <link>https://isu-statcom.netlify.app/tags/text-analysis/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/tags/text-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://isu-statcom.netlify.app/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://isu-statcom.netlify.app/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://isu-statcom.netlify.app/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://isu-statcom.netlify.app/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

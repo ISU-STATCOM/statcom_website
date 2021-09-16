@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text analysis on STATCOM at ISU</title>
+    <link>https://isu-statcom.netlify.app/tags/text-analysis/</link>
+    <description>Recent content in text analysis on STATCOM at ISU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This website lists content related to talks that have either already taken place or scheduled to take place in the STATCOM organization. All rights remain with the organization respective officers.</copyright>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://isu-statcom.netlify.app/tags/text-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ames Public Lirbary Strategic Survey 2020</title>
+      <link>https://isu-statcom.netlify.app/2020/05/ames-public-lirbary-strategic-survey-2020/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/2020/05/ames-public-lirbary-strategic-survey-2020/</guid>
+      <description>The 2020 Ames Public Library Strategic survey was administered between June and August of 2020 through an internet form and paper surveys distributed to all city residents in their water bill and at the library. There were responses collected. 189 paper surveys were returned, 42 from the library, and the rest of the surveys were from the online form. The following report presents the results for each question in the survey and some additional analysis of the data.</description>
+    </item>
+    
+    <item>
+      <title>Ericson Library Community Survey</title>
+      <link>https://isu-statcom.netlify.app/2013/11/ericson-library-community-survey/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/2013/11/ericson-library-community-survey/</guid>
+      <description>The 2018 Ericson Library community survey was administered between June and August of 2018 through an internet form and paper surveys distributed to all city residents in their water bill and at the library. There were 290 responses collected. 189 paper surveys were returned, 42 from the library, and the rest of the surveys were from the online form. The following report presents the results for each question in the survey and some additional analysis of the data.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STATCOM at ISU</title>
+    <link>https://isu-statcom.netlify.app/</link>
+    <description>Recent content on STATCOM at ISU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This website lists content related to talks that have either already taken place or scheduled to take place in the STATCOM organization. All rights remain with the organization respective officers.</copyright>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://isu-statcom.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://isu-statcom.netlify.app/about/</link>
+      <pubDate>Fri, 15 Jan 2021 21:48:51 -0700</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/about/</guid>
+      <description>About STATCOM STATCOM (Statistics in the Community) is a student-run volunteer organization that provides pro-bono statistical consulting to local organizations that work for the common good.
+STATCOM was founded at Purdue, and other chapters exist throughout the U.S.
+Note: STATCOM cannot provide consulting for other ISU departments or graduate students. Please refer to the Statistical Consulting at the Department of Statistics</description>
+    </item>
+    
+    <item>
+      <title>Officers</title>
+      <link>https://isu-statcom.netlify.app/officers/</link>
+      <pubDate>Fri, 15 Jan 2021 21:48:51 -0700</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/officers/</guid>
+      <description>2020 - 2021 STATCOM Board President: David Walker
+Email: dcwalker@iastate.edu
+Treasurer: Amin Shirazi
+Email: ashirazi@iastate.edu
+Adviser: Kori Khan
+Email: kkhan@iastate.edu
+Executive Committee:   Earl Hur
+  Amin Shirazi
+  2019 - 2020 STATCOM Board President: Kiegan Rice
+Treasurer: Miranda Tilton
+Adviser: Xiongtao Dai
+Executive Committee:   Kiegan Rice
+  Amy Crawford
+  Earl Hur
+  Amin Shirazi
+  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://isu-statcom.netlify.app/projects/</link>
+      <pubDate>Fri, 15 Jan 2021 21:48:51 -0700</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/projects/</guid>
+      <description>Projects Practical Farmers of Iowa PFI is a non-profit that works with Iowa farmers. One of the things they do is organize small-scale field trials to study the effects of sustainable agricultural practices. The project requires Read more →
+Ames Public Lirbary Strategic Survey (2020) The 2020 Ames Public Library Strategic survey was administered between June and August of 2020 through an internet form and paper surveys distributed to all city residents in their water bill and at the library.</description>
+    </item>
+    
+    <item>
+      <title>Contact us</title>
+      <link>https://isu-statcom.netlify.app/contact/</link>
+      <pubDate>Sun, 10 Jan 2021 21:48:51 -0700</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/contact/</guid>
+      <description>You can send your request to statcom@iastate.edu and our officers will will contact you to determine how best to learn more about your project.
+Advice and assistance are offered on a wide variety of statistical issues including:
+  Use of data to improve decision making processes
+  Survey/sample design and analysis
+  Design and analysis of studies and experiments
+  Graphical methods of summarizing and gaining meaning from data</description>
+    </item>
+    
+    <item>
+      <title>Practical Farmers of Iowa</title>
+      <link>https://isu-statcom.netlify.app/2020/10/practical-farmers-of-iowa/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/2020/10/practical-farmers-of-iowa/</guid>
+      <description>PFI is a non-profit that works with Iowa farmers. One of the things they do is organize small-scale field trials to study the effects of sustainable agricultural practices. The project requires the following tasks:
+Automating the extraction of data from 20+ years of badly formatted records.Data cleaning.Database design.Advice on best-practices for collecting and storing data in ways that make it easy to use for future analysis.</description>
+    </item>
+    
+    <item>
+      <title>Ames Public Lirbary Strategic Survey 2020</title>
+      <link>https://isu-statcom.netlify.app/2020/05/ames-public-lirbary-strategic-survey-2020/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/2020/05/ames-public-lirbary-strategic-survey-2020/</guid>
+      <description>The 2020 Ames Public Library Strategic survey was administered between June and August of 2020 through an internet form and paper surveys distributed to all city residents in their water bill and at the library. There were responses collected. 189 paper surveys were returned, 42 from the library, and the rest of the surveys were from the online form. The following report presents the results for each question in the survey and some additional analysis of the data.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://isu-statcom.netlify.app/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Ericson Library Community Survey</title>
+      <link>https://isu-statcom.netlify.app/2013/11/ericson-library-community-survey/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/2013/11/ericson-library-community-survey/</guid>
+      <description>The 2018 Ericson Library community survey was administered between June and August of 2018 through an internet form and paper surveys distributed to all city residents in their water bill and at the library. There were 290 responses collected. 189 paper surveys were returned, 42 from the library, and the rest of the surveys were from the online form. The following report presents the results for each question in the survey and some additional analysis of the data.</description>
+    </item>
+    
+    <item>
+      <title>Contact us</title>
+      <link>https://isu-statcom.netlify.app/2008/09/contact-us/</link>
+      <pubDate>Mon, 08 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/2008/09/contact-us/</guid>
+      <description>You can send your request to statcom@iastate.edu and our officers willwill contact you to determine how best to learn more about your project.
+Advice and assistance are offered on a wide variety of statistical issues including:
+Use of data to improve decision making processes
+Survey/sample design and analysis
+Design and analysis of studies and experiments
+Graphical methods of summarizing and gaining meaning from data</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://isu-statcom.netlify.app/2007/10/projects/</link>
+      <pubDate>Sun, 28 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/2007/10/projects/</guid>
+      <description>Practical Farmers of IowaPFI is a non-profit that works with Iowa farmers. One of the things they do is organize small-scale field trials to study the effects of sustainable agricultural practices. The project requires Read more →
+Ames Public Lirbary Strategic Survey (2020)The 2020 Ames Public Library Strategic survey was administered between June and August of 2020 through an internet form and paper surveys distributed to all city residents in their water bill and at the library.</description>
+    </item>
+    
+    <item>
+      <title>Officers</title>
+      <link>https://isu-statcom.netlify.app/2006/10/officers/</link>
+      <pubDate>Sat, 28 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/2006/10/officers/</guid>
+      <description>2021 - 2022 STATCOM BoardPresident:Debosmita Kundu
+Treasurer:Anyesha Ray
+Adviser:Kori Khan
+Executive Committee:Amin Shirazi2020 - 2021 STATCOM BoardPresident:David Walker
+Treasurer:Amin Shirazi
+Adviser:Kori Khan
+Executive Committee:Earl HurAmin Shirazi2019 - 2020 STATCOM BoardPresident:Kiegan Rice
+Treasurer:Miranda Tilton
+Adviser:Xiongtao Dai</description>
+    </item>
+    
+    <item>
+      <title>About STATCOM @ ISU</title>
+      <link>https://isu-statcom.netlify.app/2005/10/about-statcom-isu/</link>
+      <pubDate>Fri, 28 Oct 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://isu-statcom.netlify.app/2005/10/about-statcom-isu/</guid>
+      <description>STATCOM (Statistics in the Community) at Iowa State Universityis a student-run volunteer organization at the Department of Statistics that provides pro-bono statistical consulting to local organizations that work for the common good.
+The program offers the expertise of statistics graduate students, free of charge, to non-profit governmental and community organizations in the areas of data organization, analysis, and interpretation.
+STATCOM was founded at Purdue, and other chapters exist throughout the U.</description>
+    </item>
+    
+  </channel>
+</rss>
