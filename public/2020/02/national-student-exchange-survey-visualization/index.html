@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta property="og:title" content="National Student Exchange Survey Visualization" />
+<meta property="og:description" content="National Student Exchange (NSE) is a non-profit consortium of 165 colleges and universities throughout the United States, Canada, Guam, Puerto Rico, and the U.S. Virgin Islands. NSE provides opportunities for collegiate study away and student exchange among member campuses. NSE recently reached out to Iowa State’s STATCOM chapter for help visualizing survey data. We are hoping to leverage the awesome graphical minds of ISU’s Graphics Group to accomplish two things: (1) have a discussion about visualizing “feedback” survey data, including Likert scale data and qualitative text response data, and (2) have the group spend some time with the data, making visualizations!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://isu-statcom.netlify.app/2020/02/national-student-exchange-survey-visualization/" />
+<meta property="article:published_time" content="2020-02-10T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-02-10T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="National Student Exchange Survey Visualization"/>
+<meta name="twitter:description" content="National Student Exchange (NSE) is a non-profit consortium of 165 colleges and universities throughout the United States, Canada, Guam, Puerto Rico, and the U.S. Virgin Islands. NSE provides opportunities for collegiate study away and student exchange among member campuses. NSE recently reached out to Iowa State’s STATCOM chapter for help visualizing survey data. We are hoping to leverage the awesome graphical minds of ISU’s Graphics Group to accomplish two things: (1) have a discussion about visualizing “feedback” survey data, including Likert scale data and qualitative text response data, and (2) have the group spend some time with the data, making visualizations!"/>
+<meta name="generator" content="Hugo 0.80.0" />
+
+
+    
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "headline": "National Student Exchange Survey Visualization",
+  "url": "https:\/\/isu-statcom.netlify.app\/2020\/02\/national-student-exchange-survey-visualization\/",
+  "wordCount": "150",
+  "datePublished": "2020-02-10T00:00:00\u002b00:00",
+  "dateModified": "2020-02-10T00:00:00\u002b00:00",
+  "author": {
+    "@type": "Person",
+    "name": "Kiegan Rice"
+  },
+  "keywords": "Projects, data cleaning, database design, analysis, visualization"
+}
+</script>
+
+
+
+    <link rel="canonical" href="https://isu-statcom.netlify.app/2020/02/national-student-exchange-survey-visualization/">
+
+    <title>National Student Exchange Survey Visualization | STATCOM at ISU</title>
+
+    <!-- combined, minified CSS -->
+    <link href="/css/style.css" rel="stylesheet">
+
+    
+
+    
+
+    
+
+    
+
+  </head>
+
+  <body>
+
+    
+    <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav blog-nav">
+          <a class="nav-link " href="https://isu-statcom.netlify.app/">Home</a>
+          
+          
+          <a class="nav-link" href="https://isu-statcom.netlify.app/2005/10/about-statcom-isu/">About</a>
+          
+          
+          <a class="nav-link" href="https://isu-statcom.netlify.app/2008/09/contact-us/">Contact Us</a>
+          
+          
+          <a class="nav-link" href="https://github.com/ashirazist/isu-statcom/blob/main/README.md">Index</a>
+          
+          
+          <a class="nav-link" href="https://isu-statcom.netlify.app/2006/10/officers/">Officers</a>
+          
+          
+          <a class="nav-link" href="https://isu-statcom.netlify.app/2007/10/projects/">Projects</a>
+          
+          
+        </nav>
+      </div>
+    </div>
+    
+
+    
+    <header class="blog-header">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-8 blog-main">
+            <h1 class="blog-title"><a href="https://isu-statcom.netlify.app/" rel="home">STATCOM at ISU</a></h1>
+            <p class="lead blog-description">STATCOM at Iowa State offers statistical advice and expertise free of charge to governmental and nonprofit groups in the local community.</p>
+          </div>
+            <div class="col-sm-3 ml-auto" align="center">
+            <img src="https://isu-statcom.netlify.app/img/statcom_logo.png" height=180px width=170px >
+          </div>
+        </div>
+      </div>
+    </header>
+    
+
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 blog-main">
+
+          
+
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="https://isu-statcom.netlify.app/2020/02/national-student-exchange-survey-visualization/">National Student Exchange Survey Visualization</a></h2>
+    <p class="blog-post-meta"><time datetime="2020-02-10T00:00:00Z">Mon Feb 10, 2020</time> by Kiegan Rice in 
+<i class="fa fa-folder" aria-hidden="true"></i>&nbsp;<a href="/categories/projects" rel="category tag">Projects</a>
+
+
+<i class="fa fa-tag" aria-hidden="true"></i>&nbsp;<a href="/tags/data-cleaning" rel="tag">data cleaning</a>, <a href="/tags/database-design" rel="tag">database design</a>, <a href="/tags/analysis" rel="tag">analysis</a>, <a href="/tags/visualization" rel="tag">visualization</a>
+
+</p>
+  </header>
+  
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<p>National Student Exchange (NSE) is a non-profit consortium of 165 colleges and universities throughout the United States, Canada, Guam, Puerto Rico, and the U.S. Virgin Islands. NSE provides opportunities for collegiate study away and student exchange among member campuses. NSE recently reached out to Iowa State’s STATCOM chapter for help visualizing survey data. We are hoping to leverage the awesome graphical minds of ISU’s Graphics Group to accomplish two things: (1) have a discussion about visualizing “feedback” survey data, including Likert scale data and qualitative text response data, and (2) have the group spend some time with the data, making visualizations! The (mostly) cleaned data and a description file can be found in the CyBox linked here. You are welcome to look at the description and data and work on visualizations ahead of time. However, there is no need to do so before the meeting if you don’t have time.</p>
+
+
+  
+
+  
+  <hr>
+  <footer>
+
+  
+    <section>
+    <h4>Share</h4>
+    <nav class="nav sharing-icons">
+      <a class="nav-item" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fisu-statcom.netlify.app%2f2020%2f02%2fnational-student-exchange-survey-visualization%2f" title="Share on Facebook"><span class="fa fa-facebook fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://plus.google.com/share?url=https%3a%2f%2fisu-statcom.netlify.app%2f2020%2f02%2fnational-student-exchange-survey-visualization%2f" title="Share on Google+"><span class="fa fa-google-plus fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fisu-statcom.netlify.app%2f2020%2f02%2fnational-student-exchange-survey-visualization%2f" title="Share on LinkedIn"><span class="fa fa-linkedin fa-2x" aria-hidden="true"></span></a>
+      <a class="nav-item" href="https://twitter.com/home?status=https%3a%2f%2fisu-statcom.netlify.app%2f2020%2f02%2fnational-student-exchange-survey-visualization%2f" title="Tweet this"><span class="fa fa-twitter fa-2x"></span></a>
+    </nav>
+  </section>
+
+  
+
+  
+  </footer>
+  
+
+</article> 
+
+
+
+        </div> <!-- /.blog-main -->
+
+        <aside class="col-sm-3 ml-auto blog-sidebar">
+  
+  <section class="sidebar-module sidebar-module-inset">
+    <h4>About</h4>
+    <p>STATCOM (Statistics in the Community) is a student-run volunteer organization that provides pro-bono statistical consulting to local organizations that work for the common good <a href="/about">Read more →</a>.</p>
+  </section>
+  
+
+  
+        <section class="sidebar-module">
+    <h4>Recent Posts</h4>
+    <ol class="list-unstyled">
+
+
+<li><a href="/2020/10/practical-farmers-of-iowa/">Practical Farmers of Iowa</a></li>
+
+<li><a href="/2020/05/ames-public-lirbary-strategic-survey-2020/">Ames Public Lirbary Strategic Survey 2020</a></li>
+
+<li><a href="/2020/02/national-student-exchange-survey-visualization/">National Student Exchange Survey Visualization</a></li>
+
+    </ol>
+  </section>
+
+  
+
+  
+  <section class="sidebar-module">
+    <h4>Links</h4>
+    <ol class="list-unstyled">
+      
+      <li><a href="https://www.stat.iastate.edu/statistical-consulting">Consulting Group at ISU</a></li>
+      
+      <li><a href="https://www.stat.iastate.edu/">Department of Statistics at ISU</a></li>
+      
+      <li><a href="https://github.com/ISU-STATCOM">STATCOM on GitHub</a></li>
+      
+    </ol>
+  </section>
+  
+</aside>
+
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+    
+
+    
+    <footer class="blog-footer">
+      <p>
+      
+      This website lists content related to talks that have either already taken place or scheduled to take place in the STATCOM organization. All rights remain with the organization respective officers.
+      
+      </p>
+      <p>
+      <a href="#">Back to top</a>
+      </p>
+    </footer>
+    
+
+  </body>
+
+</html>

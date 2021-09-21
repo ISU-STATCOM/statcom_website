@@ -4,7 +4,7 @@ author:
 date: '2007-10-28'
 slug: 
 categories: []
-tags: []
+tags: ['Projects']
 description: 'Here are some recent projects STATCOM @ ISU was involved.'
 ---
 
@@ -14,15 +14,15 @@ PFI is a non-profit that works with Iowa farmers. One of the things they do is o
 ### Ames Public Lirbary Strategic Survey (2020)
 The 2020 Ames Public Library Strategic survey was administered between June and August of 2020 through an internet form and paper surveys distributed to all city residents in their water bill and at the library. There were responses collected. 189 paper surveys were returned, 42 from the library, and the rest of the surveys were from the online form. The following report presents the results for each question in the survey and some additional analysis of the data.[Read more →](/2020/05/ames-public-lirbary-strategic-survey-2020/)
 
+
+### National Student Exchange
+National Student Exchange (NSE) is a non-profit consortium of 165 colleges and universities throughout the United States, Canada, Guam, Puerto Rico, and the U.S. Virgin Islands. NSE provides opportunities for collegiate study away and student exchange among member campuses. NSE recently reached out to Iowa State’s STATCOM chapter for help visualizing survey data.[Read more →](/2020/02/national-student-exchange-survey-visualization)
+
 ### ACLU
 [Read more →]()
 
 ### Mason City Schools
 [Read more →]()
-
-### National Student Exchange
-[Read more →]()
-
 
 ### Ericson Library Community Survey (2018)
 The 2018 Ericson Library community survey was administered between June and August of 2018 through an internet form and paper surveys distributed to all city residents in their water bill and at the library. There were 290 responses collected. 189 paper surveys were returned, 42 from the library, and the rest of the surveys were from the online form. The following report presents the results for each question in the survey and some additional analysis of the data.[Read more →](/2018/11/ericson-library-community-survey/)

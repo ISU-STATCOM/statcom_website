@@ -18,7 +18,7 @@ The 2020 Ames Public Library Strategic survey was administered between June and 
 [Read more →]()
 
 ### National Student Exchange
-[Read more →]()
+National Student Exchange (NSE) is a non-profit consortium of 165 colleges and universities throughout the United States, Canada, Guam, Puerto Rico, and the U.S. Virgin Islands. NSE provides opportunities for collegiate study away and student exchange among member campuses. NSE recently reached out to Iowa State’s STATCOM chapter for help visualizing survey data. We are hoping to leverage the awesome graphical minds of ISU’s Graphics Group to accomplish two things: (1) have a discussion about visualizing “feedback” survey data, including Likert scale data and qualitative text response data, and (2) have the group spend some time with the data, making visualizations! The (mostly) cleaned data and a description file can be found in the CyBox linked here. You are welcome to look at the description and data and work on visualizations ahead of time. However, there is no need to do so before the meeting if you don’t have time.[Read more →](2020-02-10-nse)
 
 
 ### Ericson Library Community Survey (2018)
